@@ -1,0 +1,19 @@
+
+.top_area{
+    text-align: center;
+    width: 100%;
+}
+.top_area h1{
+    color: black;
+    font-size: 30;
+}
+
+.menu_area2{
+	text-align: center;
+	width: 100%;
+}
+.menu_area2 ul{
+   font-size:30;
+   font-weight:bold;
+    align-items: center;
+}
